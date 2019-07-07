@@ -23,6 +23,8 @@ public class Question2Test {
 	public void removeDuplicateList() {
 		assertEquals(finalNumbers,qns2.removeDuplicateList(number));
 	}
+	
 */
+	
 	
 }
